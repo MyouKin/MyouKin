@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Hello](./uika_hello.gif)
 <!--
 **MyouKin/MyouKin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
