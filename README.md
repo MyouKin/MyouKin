@@ -1,9 +1,13 @@
-Hello🖖🖖🖖
+Hello🖖～
 
-我是中国石油大学（北京）机器人工程 大四本科生，
+我是中国石油大学（北京）机器人工程 大四本科生
 
-前石大机器人协会算法组组长，
+前石大机器人协会算法组组长
 
-现北京理工大学 OpenDIM Lab研究助理，
+现北京理工大学 OpenDIM Lab研究助理
 
-Interested in robot perception, control & embodied AI, working with C++ / Python / ROS / Isaac Lab.
+![uika](uika.gif)
+
+Interested in robot perception, control, embodied intelligence & ACGN
+
+Working with C++ / Python / ROS / Isaac Lab
