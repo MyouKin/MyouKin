@@ -4,7 +4,7 @@
 
 ### アタシ、再生産。
 
-中国石油大学（北京）机器人工程 大四 & 石大机器人协会 算法组 组长
+中国石油大学（北京）机器人工程 大四 & 石大机器人协会 算法组 前组长
 
 (可能的？)澳門大學 機器人與自主系統 研0
 
@@ -12,6 +12,6 @@
 
 ONANA Robotics 强化学习实习生
 
-Interested in robot perception, control, embodied intelligence & ACGN!
+Interested in robot perception, control, embodied intelligence & kirakiradokidoki，まぶしい的东西
 
 </div>
