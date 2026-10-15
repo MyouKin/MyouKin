@@ -12,6 +12,4 @@
 
 ONANA Robotics 强化学习实习生
 
-Interested in robot perception, control, embodied intelligence & kirakiradokidoki，まぶしい的东西
-
 </div>
