@@ -10,6 +10,4 @@
 
 北京理工大学 OpenDIM Lab 研究助理
 
-ONANA Robotics 强化学习实习生
-
 </div>
